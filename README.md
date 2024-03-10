@@ -11,6 +11,9 @@
 ![image](https://github.com/marcelomduarte/analise_de_vendas_excel_power_bi/assets/115512260/27aae971-3eb2-4495-8eb0-4d628cdded1c)
 				
 ![image](https://github.com/marcelomduarte/analise_de_vendas_excel_power_bi/assets/115512260/5ee99e8f-0447-478a-9ae3-ce28a574950c)
+																
+![image](https://github.com/marcelomduarte/analise_de_vendas_excel_power_bi/assets/115512260/02542548-ad70-4108-bd14-263d14ad94ad)
+
 
 ## Relatório Power BI
 
