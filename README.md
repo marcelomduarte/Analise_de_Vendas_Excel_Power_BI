@@ -9,6 +9,5 @@ Acesse o link: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmQyODFjYzgtNjk
 # Análise de Vendas
 
 ## Relatório Excel
-																	
-![image](https://github.com/marcelomduarte/analise_de_vendas_excel_power_bi/assets/115512260/6715c1e3-af54-4428-b681-4a2fc7f2bd10)
 
+![image](https://github.com/user-attachments/assets/475c0f45-d9c6-4245-9ffa-286743cea507)
