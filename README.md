@@ -2,7 +2,7 @@
 
 ![Análise de Vendas](images/screen_clipping/analise_vendas2.png)
 
-Acesse o link: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmQyODFjYzgtNjkxNC00MDQzLWFmZDUtZGJhNjA2MzdiNDI3IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9)
+Acesse o link: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmIxYzgyMDEtNTliNy00MDE5LWExMzYtMTA4YWQ0MGNmYmFhIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9)
 
 ---
 
